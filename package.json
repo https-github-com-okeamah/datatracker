@@ -10,7 +10,7 @@
     "@fullcalendar/bootstrap5": "6.1.11",
     "@fullcalendar/core": "6.1.11",
     "@fullcalendar/daygrid": "6.1.11",
-    "@fullcalendar/icalendar": "6.1.11",
+    "@fullcalendar/icalendar": "6.1.15",
     "@fullcalendar/interaction": "6.1.11",
     "@fullcalendar/list": "6.1.11",
     "@fullcalendar/luxon3": "6.1.11",
