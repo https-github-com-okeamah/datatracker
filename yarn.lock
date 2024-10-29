@@ -373,13 +373,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/icalendar@npm:6.1.11":
-  version: 6.1.11
-  resolution: "@fullcalendar/icalendar@npm:6.1.11"
+"@fullcalendar/icalendar@npm:6.1.15":
+  version: 6.1.15
+  resolution: "@fullcalendar/icalendar@npm:6.1.15"
   peerDependencies:
-    "@fullcalendar/core": ~6.1.11
+    "@fullcalendar/core": ~6.1.15
     ical.js: ^1.4.0
-  checksum: 4e6eff15a81dda9d275ba555a0b4648a1410c1504694915a1669eb3c1c2299e1bce2817b78dbf33378621972bb0bc90a1d1f53515dc071b5f5abf79d10d1854a
+  checksum: af1ae06b5e3d805dea6da4ac36fd10df695562ecc6ab8c33010721cf513b98fabe9c2565679761b02ef03e8b66d623102519eefd7123b2256cddf88f5dbdeec7
   languageName: node
   linkType: hard
 
@@ -6537,7 +6537,7 @@ browserlist@latest:
     "@fullcalendar/bootstrap5": 6.1.11
     "@fullcalendar/core": 6.1.11
     "@fullcalendar/daygrid": 6.1.11
-    "@fullcalendar/icalendar": 6.1.11
+    "@fullcalendar/icalendar": 6.1.15
     "@fullcalendar/interaction": 6.1.11
     "@fullcalendar/list": 6.1.11
     "@fullcalendar/luxon3": 6.1.11
