@@ -401,13 +401,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/luxon3@npm:6.1.11":
-  version: 6.1.11
-  resolution: "@fullcalendar/luxon3@npm:6.1.11"
+"@fullcalendar/luxon3@npm:6.1.15":
+  version: 6.1.15
+  resolution: "@fullcalendar/luxon3@npm:6.1.15"
   peerDependencies:
-    "@fullcalendar/core": ~6.1.11
+    "@fullcalendar/core": ~6.1.15
     luxon: ^3.0.0
-  checksum: 8e7f45aab2e2235b2027ca99aeabb35a91f0b2fcb608d52357abb582b4640ed8a0d7a4569ffa25628fbe04d2ee13051ec66304c6abef7cd7a364fa173db09ab7
+  checksum: f41ca556bae5b34c558941703232be940e292db2ac29899d0ceb4f4777c04806bf7e37e28282cef033d4e9743b95f6dd798335b176f3cad836519f80b99f9cd6
   languageName: node
   linkType: hard
 
@@ -6540,7 +6540,7 @@ browserlist@latest:
     "@fullcalendar/icalendar": 6.1.15
     "@fullcalendar/interaction": 6.1.11
     "@fullcalendar/list": 6.1.11
-    "@fullcalendar/luxon3": 6.1.11
+    "@fullcalendar/luxon3": 6.1.15
     "@fullcalendar/timegrid": 6.1.11
     "@fullcalendar/vue3": 6.1.11
     "@parcel/optimizer-data-url": 2.12.0
