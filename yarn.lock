@@ -413,13 +413,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/vue3@npm:6.1.11":
-  version: 6.1.11
-  resolution: "@fullcalendar/vue3@npm:6.1.11"
+"@fullcalendar/vue3@npm:6.1.15":
+  version: 6.1.15
+  resolution: "@fullcalendar/vue3@npm:6.1.15"
   peerDependencies:
-    "@fullcalendar/core": ~6.1.11
+    "@fullcalendar/core": ~6.1.15
     vue: ^3.0.11
-  checksum: 5891a596e92269151cb62feaaffdc87ac8ad55b277e8bbad435855ab872fabb2f88766b8bc0659745c5205e3550a2c8923c5fc990ade8401de2ed6a2a9c5701e
+  checksum: ac336130bd3c81c4e8520f7dcdaba8228432982ee3e22a340a965fbc16d512283ec20069201a9ff1261bad94eb192018c77296673c6fb07012c61c169604cb10
   languageName: node
   linkType: hard
 
@@ -6517,7 +6517,7 @@ browserlist@latest:
     "@fullcalendar/list": 6.1.15
     "@fullcalendar/luxon3": 6.1.11
     "@fullcalendar/timegrid": 6.1.11
-    "@fullcalendar/vue3": 6.1.11
+    "@fullcalendar/vue3": 6.1.15
     "@parcel/optimizer-data-url": 2.12.0
     "@parcel/transformer-inline-string": 2.12.0
     "@parcel/transformer-sass": 2.12.0
