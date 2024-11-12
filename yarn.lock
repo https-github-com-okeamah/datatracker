@@ -57,15 +57,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/runtime@npm:^7.21.0":
-  version: 7.23.2
-  resolution: "@babel/runtime@npm:7.23.2"
-  dependencies:
-    regenerator-runtime: ^0.14.0
-  checksum: 6c4df4839ec75ca10175f636d6362f91df8a3137f86b38f6cd3a4c90668a0fe8e9281d320958f4fbd43b394988958585a17c3aab2a4ea6bf7316b22916a371fb
-  languageName: node
-  linkType: hard
-
 "@babel/types@npm:^7.6.1, @babel/types@npm:^7.8.3, @babel/types@npm:^7.9.6":
   version: 7.18.4
   resolution: "@babel/types@npm:7.18.4"
@@ -83,12 +74,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@css-render/plugin-bem@npm:^0.15.12":
-  version: 0.15.12
-  resolution: "@css-render/plugin-bem@npm:0.15.12"
+"@css-render/plugin-bem@npm:^0.15.14":
+  version: 0.15.14
+  resolution: "@css-render/plugin-bem@npm:0.15.14"
   peerDependencies:
-    css-render: ~0.15.12
-  checksum: 9fa7ddd62b19beefa1280d731bc45f26f016e0f4f4535025247b4de831b3a37f72f7eaa7098c10fac784a5f1eb723078ee293068e77c04e6e40953f260e4fc14
+    css-render: ~0.15.14
+  checksum: d425baa8aeddb907b74eea7ecff0ebe31225b06f95a0bd2aedd2c8f303ae85365cff0d97d7343638c3605f8cfd2691d7e8d38e9396a34e14a6c0ab9cf1e99594
   languageName: node
   linkType: hard
 
@@ -101,12 +92,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@css-render/vue3-ssr@npm:^0.15.12":
-  version: 0.15.12
-  resolution: "@css-render/vue3-ssr@npm:0.15.12"
+"@css-render/vue3-ssr@npm:^0.15.14":
+  version: 0.15.14
+  resolution: "@css-render/vue3-ssr@npm:0.15.14"
   peerDependencies:
     vue: ^3.0.11
-  checksum: a5505ae1619827dd2f2d1e294f58c927e8e292c93aa6750ffcb8690cc57e797a01c23c828dd4c9a3bde3add500c2385bd85905bb7f3280c76be2010f1c15537d
+  checksum: 08b8953a2179ac5c68095fe6330067101342e3a77fc2ac89c4896f8d28dd02d6392d70a2387a3fa8cb74fdf0a1b5d84773710c5053921bcb7c0ca911e2b19788
   languageName: node
   linkType: hard
 
@@ -2568,13 +2559,13 @@ browserlist@latest:
   languageName: node
   linkType: hard
 
-"css-render@npm:^0.15.12":
-  version: 0.15.12
-  resolution: "css-render@npm:0.15.12"
+"css-render@npm:^0.15.14":
+  version: 0.15.14
+  resolution: "css-render@npm:0.15.14"
   dependencies:
     "@emotion/hash": ~0.8.0
     csstype: ~3.0.5
-  checksum: 80265c5055e3a77b7ee357c16e3090f84f19a2f4e0917425c430f987e0af62c2491121832c7e0c7b0037eaff4291dc0385b1e6ef068c6088a704973e971defd0
+  checksum: b30f600d69fb74acbb90d1c8a64d77dc5e8461b5d7fbdb4150bfba488ba3a255a2d213d6e62971783d00d7aa32c88b2e6363c4700d403f694f6ade443c23269f
   languageName: node
   linkType: hard
 
@@ -2967,21 +2958,19 @@ browserlist@latest:
   languageName: node
   linkType: hard
 
-"date-fns-tz@npm:^2.0.0":
-  version: 2.0.0
-  resolution: "date-fns-tz@npm:2.0.0"
+"date-fns-tz@npm:^3.1.3":
+  version: 3.2.0
+  resolution: "date-fns-tz@npm:3.2.0"
   peerDependencies:
-    date-fns: ">=2.0.0"
-  checksum: a6553603a9d26dd9669326c99a58a2335ac550bc060c74b86a5ad9e1de73c9d4e3e5236f0f552f990e616e4e8dcc2b6a637913a04d2e04396e6a9f8ae83c73da
+    date-fns: ^3.0.0 || ^4.0.0
+  checksum: c49289a3944fc1eacaa08649c2c1adc1652456d405841f2093fdd365596dac46553a303629b5d528c3f5e4c49919fc3d3ff98da93ad32a1a193243aa04cc0987
   languageName: node
   linkType: hard
 
-"date-fns@npm:^2.30.0":
-  version: 2.30.0
-  resolution: "date-fns@npm:2.30.0"
-  dependencies:
-    "@babel/runtime": ^7.21.0
-  checksum: f7be01523282e9bb06c0cd2693d34f245247a29098527d4420628966a2d9aad154bd0e90a6b1cf66d37adcb769cd108cf8a7bd49d76db0fb119af5cdd13644f4
+"date-fns@npm:^3.6.0":
+  version: 3.6.0
+  resolution: "date-fns@npm:3.6.0"
+  checksum: 0daa1e9a436cf99f9f2ae9232b55e11f3dd46132bee10987164f3eebd29f245b2e066d7d7db40782627411ecf18551d8f4c9fcdf2226e48bb66545407d448ab7
   languageName: node
   linkType: hard
 
@@ -5574,20 +5563,20 @@ browserlist@latest:
   languageName: node
   linkType: hard
 
-"naive-ui@npm:2.38.1":
-  version: 2.38.1
-  resolution: "naive-ui@npm:2.38.1"
+"naive-ui@npm:2.40.1":
+  version: 2.40.1
+  resolution: "naive-ui@npm:2.40.1"
   dependencies:
-    "@css-render/plugin-bem": ^0.15.12
-    "@css-render/vue3-ssr": ^0.15.12
+    "@css-render/plugin-bem": ^0.15.14
+    "@css-render/vue3-ssr": ^0.15.14
     "@types/katex": ^0.16.2
     "@types/lodash": ^4.14.198
     "@types/lodash-es": ^4.17.9
     async-validator: ^4.2.5
-    css-render: ^0.15.12
+    css-render: ^0.15.14
     csstype: ^3.1.3
-    date-fns: ^2.30.0
-    date-fns-tz: ^2.0.0
+    date-fns: ^3.6.0
+    date-fns-tz: ^3.1.3
     evtd: ^0.2.4
     highlight.js: ^11.8.0
     lodash: ^4.17.21
@@ -5596,10 +5585,10 @@ browserlist@latest:
     treemate: ^0.3.11
     vdirs: ^0.1.8
     vooks: ^0.2.12
-    vueuc: ^0.4.58
+    vueuc: ^0.4.63
   peerDependencies:
     vue: ^3.0.0
-  checksum: 88a8f981dec2ebcdfe0f06d9123d46069e22f881e3286441d6396ea80ee56079d7f93e731321d2320156196e442df77a9ae45f8599b98b144af458d12b29d88c
+  checksum: 6c88b5edf8dc5b1728de98a77960ee49cf311fc05abf3949c3be2784adffc1fcd2558fcb361d3f06ba4debe2edfc188cc070e362017f8069040471cb575243a4
   languageName: node
   linkType: hard
 
@@ -6346,13 +6335,6 @@ browserlist@latest:
   languageName: node
   linkType: hard
 
-"regenerator-runtime@npm:^0.14.0":
-  version: 0.14.0
-  resolution: "regenerator-runtime@npm:0.14.0"
-  checksum: 1c977ad82a82a4412e4f639d65d22be376d3ebdd30da2c003eeafdaaacd03fc00c2320f18120007ee700900979284fc78a9f00da7fb593f6e6eeebc673fba9a3
-  languageName: node
-  linkType: hard
-
 "regexp.prototype.flags@npm:^1.5.1":
   version: 1.5.1
   resolution: "regexp.prototype.flags@npm:1.5.1"
@@ -6574,7 +6556,7 @@ browserlist@latest:
     moment-timezone: 0.5.45
     ms: 2.1.3
     murmurhash-js: 1.0.0
-    naive-ui: 2.38.1
+    naive-ui: 2.40.1
     parcel: 2.12.0
     pinia: 2.2.4
     pinia-plugin-persist: 1.0.0
@@ -7590,9 +7572,9 @@ browserlist@latest:
   languageName: node
   linkType: hard
 
-"vueuc@npm:^0.4.58":
-  version: 0.4.58
-  resolution: "vueuc@npm:0.4.58"
+"vueuc@npm:^0.4.63":
+  version: 0.4.64
+  resolution: "vueuc@npm:0.4.64"
   dependencies:
     "@css-render/vue3-ssr": ^0.15.10
     "@juggle/resize-observer": ^3.3.1
@@ -7603,7 +7585,7 @@ browserlist@latest:
     vooks: ^0.2.4
   peerDependencies:
     vue: ^3.0.11
-  checksum: fb0b9a69be553ccbdc314eec22433d99022ef065d6e6add4b1177ebada6de6d05b4ece36af4ee37a750687215ec966880c17d6b6dd2d0ea38a7958f584da74b9
+  checksum: f9df67b8d425cd9f78ecac52f0ded6c8d84668ef699dcd80cdb3d72a1919562fdb584c04ce16c7dbebefbfd08b519bebec2a1d40a559411ad0e70303e256683d
   languageName: node
   linkType: hard
 
