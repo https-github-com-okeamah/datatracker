@@ -14,7 +14,7 @@
     "@fullcalendar/interaction": "6.1.11",
     "@fullcalendar/list": "6.1.15",
     "@fullcalendar/luxon3": "6.1.11",
-    "@fullcalendar/timegrid": "6.1.11",
+    "@fullcalendar/timegrid": "6.1.15",
     "@fullcalendar/vue3": "6.1.11",
     "@popperjs/core": "2.11.8",
     "@twuni/emojify": "1.0.2",
