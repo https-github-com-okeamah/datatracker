@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@faker-js/faker": "9.4.0",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "lodash-es": "4.17.21",
     "luxon": "3.5.0",
     "ms": "2.1.3",
